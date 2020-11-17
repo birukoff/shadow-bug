@@ -9,3 +9,6 @@ Steps to reproduce:
 6) Find `shadowJar` fragment, confirm that type hints are broken (`???` shows up instead of a proper type).
 
 Repeat the same steps, but for version 6.0.0 at step 3. Type hint at step 6 appears correctly, as `ShadowJar`.
+
+![Type hints broken](screenshot_1.png)
+![Class References Unresolved](screenshot_2.png)
