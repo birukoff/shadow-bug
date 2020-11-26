@@ -11,4 +11,5 @@ Steps to reproduce:
 Repeat the same steps, but for version 6.0.0 at step 3. Type hint at step 6 appears correctly, as `ShadowJar`.
 
 ![Type hints broken](screenshot_1.png)
-![Class References Unresolved](screenshot_2.png)
+![Class references unresolved](screenshot_2.png)
+![Some parts of a JAR are missing ("tasks" and "internal")](screenshot_3.png)
